@@ -7,9 +7,9 @@ values from the Department of Health are. Output in displayed in a table. Inputs
 name, height in feet, height in inches, and current weight in pounds.
 
 ## Skills Demonstrated
-Handel user input
-Display personal details and computed BMI values in a well formatted table 
-Display extra BMI values from the department of health.  
+- Handel user input
+- Display personal details and computed BMI values in a well formatted table 
+- Display extra BMI values from the department of health.  
 
 ##Example Output
 ```
