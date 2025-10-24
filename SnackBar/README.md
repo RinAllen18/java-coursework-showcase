@@ -8,11 +8,11 @@ tax on their total, and their final total after the discount and taxes are appli
 program also handels invalid input in various ways depending on the prompt.
 
 ## Skills Demonstrated
-Multi-layered conditional logic using nested if/else statements 
-Input validation
-Arithmetic and data handeling
-output formatting and presentation
-Real-world simulation  
+- Multi-layered conditional logic using nested if/else statements 
+- Input validation
+- Arithmetic and data handeling
+- Output formatting and presentation
+- Real-world simulation  
 
 ##Example Output
 ```
