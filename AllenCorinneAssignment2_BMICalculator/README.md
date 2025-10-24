@@ -43,6 +43,13 @@ Enter your height in inches: 0
          Normal:      18.5 to 25
          Overweight:  greater than 25
 ```
+
+### ⚙️ How to Run
+```bash
+javac AllenCorinneAssignment2.java
+java AllenCorinneAssignment2
+```
+
 ## 🧑‍💻 Author
 **Corinne Allen**  
 💼 [LinkedIn](https://www.linkedin.com/in/ceallen/)  
