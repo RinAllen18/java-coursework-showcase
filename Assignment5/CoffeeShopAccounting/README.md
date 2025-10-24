@@ -1,4 +1,4 @@
-# Assignment 4 - BMI Coffee Shop Accounting
+# Assignment 5 - Coffee Shop Accounting
 
 ### Purpose
 This program that allows a coffee shop owner to input multiple sale amounts that each of his stores 
@@ -39,8 +39,8 @@ Number of sale amounts more than $2000        = 1
 
 ### ⚙️ How to Run
 ```bash
-javac AllenCorinneAssignment4.java
-java AllenCorinneAssignment4
+javac AllenCorinneAssignment5.java
+java AllenCorinneAssignment5
 ```
 
 ## 🧑‍💻 Author
