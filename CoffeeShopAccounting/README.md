@@ -9,11 +9,11 @@ sales were for each store (in increments of $100); determine and display the tot
 sum of sales, and the average of all sales.
 
 ## Skills Demonstrated
-Looping and control structures
-Data aggregation and statistical computation
-Sentinel-controlled input
-User interation and console visualization
-Real-world application
+- Looping and control structures
+- Data aggregation and statistical computation
+- Sentinel-controlled input
+- User interation and console visualization
+- Real-world application
 
 ##Example Output
 ```
