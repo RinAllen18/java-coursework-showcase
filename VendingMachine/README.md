@@ -9,12 +9,12 @@ selection amount and enter the correct shutdown password. Once shutdown mode it 
 on total sales, total count of snacks sold, and total count of each snack sold.
 
 ## Skills Demonstrated
-Looping and control (intermediate level)
-User input handeling and validation
-Data tracking and computation
-Sentinel and control variables
-Constatnts and maintainable code
-Output formatting and user experiance
+- Looping and control (intermediate level)
+- User input handeling and validation
+- Data tracking and computation
+- Sentinel and control variables
+- Constatnts and maintainable code
+- Output formatting and user experiance
 
 ##Example Output
 ```
